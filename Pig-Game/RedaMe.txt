@@ -1,0 +1,6 @@
+This is a JavaScript implementation of a simple dice game for two players. The game starts with both players having a score of 0. 
+On each turn, a player rolls a dice as many times as they want, with each roll adding to their current score. 
+If they roll a 1, their turn ends and their current score is reset to 0. The player can choose to hold their current score, which adds it to their overall score. 
+The first player to reach a score of 20 or more wins the game. The game also includes buttons to start a new game and to hold the current score. 
+The game tracks the current player, the current score, and the overall scores of both players. The HTML file includes a game board with two sections for the players, 
+each displaying their current and overall scores, and buttons to roll the dice, hold the current score, and start a new game.
